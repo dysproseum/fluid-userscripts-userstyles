@@ -1,0 +1,30 @@
+/**
+ * Fluid userstyle
+ * hangouts.google.com
+ */
+
+/* Top bar */
+.g-Ue-OkO9ve {
+  display: none !important;
+}
+
+/* Left sidebar */
+.bdXzDb {
+  display: none !important;
+}
+
+/* Buddy list */
+.g-Ue-kc {
+  top: 0px !important;
+  left: 0px !important;
+}
+
+/* Chat window */
+.Cl {
+  height: 100% !important;
+}
+
+/* Background */
+.g-Qx-n5VRYe {
+  background: gray !important;
+}
