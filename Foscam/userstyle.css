@@ -1,0 +1,34 @@
+/**
+ * Fluid userstyle
+ * Foscam admin viewer
+ */
+
+html {
+    min-height: 50px !important;
+    min-width: 100px !important;
+}
+
+#mleft {
+    display: none;
+}
+
+#content {
+    top: 0px !important;
+}
+
+#content #main {
+    left: 0px !important;
+}
+
+#plugin {
+    width: 100% !important;
+}
+
+#content #main .objPC {
+    top: 0px !important;
+    bottom: 0px !important;
+}
+
+#bottom {
+    display: none;
+}
