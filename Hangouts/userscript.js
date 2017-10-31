@@ -19,3 +19,11 @@ setInterval(function() {
     }
   }
 }, 1000);
+
+// Close redirect windows.
+if (window.location.pathname == "/url") {
+  console.log("Closing redirect window...");
+  setTimeout(function() {
+    window.close();           
+  }, 2500);
+}
